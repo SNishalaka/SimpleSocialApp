@@ -1,2 +1,2 @@
 # SimpleSocialApp
-social network application build using PHP with Laravel framework
+Social network application build using PHP with Laravel framework
