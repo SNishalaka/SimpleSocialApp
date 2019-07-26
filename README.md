@@ -1,4 +1,4 @@
-# SimpleSocialApp :U+1F4AC:
-## Social network application build using PHP with Laravel framework
+# SimpleSocialApp :speech_balloon:
+### Social network application build using PHP with Laravel framework
 
 
