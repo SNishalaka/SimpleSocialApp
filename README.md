@@ -1,4 +1,4 @@
-# Social Network :speech_baloon:
+# Social Network :speech_balloon:
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
