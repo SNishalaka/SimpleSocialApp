@@ -1,2 +1,4 @@
-# SimpleSocialApp
-Social network application build using PHP with Laravel framework
+# SimpleSocialApp :(y):
+## Social network application build using PHP with Laravel framework
+
+
