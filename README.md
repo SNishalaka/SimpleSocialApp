@@ -1,5 +1,5 @@
 # Social Network :speech_balloon:
-> Short blurb about what your product does.
+> Build Simple Social Network app using PHP with Laravel framework
 <!---
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
